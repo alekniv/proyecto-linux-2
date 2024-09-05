@@ -13,3 +13,22 @@ En este proyecto, vamos a implementar y gestionar un conjunto de servidores Linu
 **- Configuración y Gestión:** Configurar y gestionar cada servicio para que funcione de manera óptima en un entorno virtualizado. Esto incluye la configuración de seguridad, rendimiento y conectividad entre los servicios.
 
 **- Documentación:** Documentar el proceso de configuración y los comandos utilizados, para que otros desarrolladores o administradores puedan replicar y entender la infraestructura.
+
+### Requisitos
+
+**- Oracle VM VirtualBox**
+
+**- Vagrant**
+
+**- VSCode**
+
+**- GIT**
+
+### Entorno de Desarrollo
+
+### Diagrama de Arquitectura
+
+### Desarrollo
+
+
+
